@@ -1,0 +1,1323 @@
+{
+  "site": {
+    "name": "Elite Hardware",
+    "tagline": "Your Complete Hardware Solution",
+    "description": "Quality hardware supplies, tools, paint, electrical, and plumbing essentials for professionals and DIY enthusiasts.",
+    "logo": {
+      "default": "https://placehold.co/120x40/1a1a1a/ffffff?text=Elite",
+      "white": "https://placehold.co/120x40/ffffff/1a1a1a?text=Elite",
+      "alt": "Elite Hardware Logo"
+    },
+    "seo": {
+      "title": "Elite Hardware - Quality Tools & Supplies",
+      "description": "Shop premium hardware, tools, paint, electrical supplies, plumbing essentials, nuts & bolts, and metal products. Professional quality for every project.",
+      "keywords": [
+        "hardware store",
+        "tools",
+        "paint supplies",
+        "electrical supplies",
+        "plumbing supplies",
+        "nuts and bolts",
+        "metal bars",
+        "DIY hardware"
+      ],
+      "ogImage": "https://placehold.co/1200x630/f89108/ffffff?text=Elite+Hardware"
+    }
+  },
+  "navbar": {
+    "brandName": "Elite",
+    "mainLinks": [
+      {
+        "id": "new-featured",
+        "name": "New & Featured",
+        "href": "#",
+        "megaMenu": {
+          "columns": [
+            {
+              "title": "Featured",
+              "links": [
+                {
+                  "name": "New Arrivals",
+                  "href": "#"
+                },
+                {
+                  "name": "Best Sellers",
+                  "href": "#"
+                },
+                {
+                  "name": "Weekly Deals",
+                  "href": "#"
+                },
+                {
+                  "name": "Clearance Sale",
+                  "href": "#"
+                },
+                {
+                  "name": "Pro Member Exclusives",
+                  "href": "#"
+                },
+                {
+                  "name": "Gift Ideas",
+                  "href": "#"
+                },
+                {
+                  "name": "Starter Kits",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Trending",
+              "links": [
+                {
+                  "name": "Cordless Power Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Smart Home Devices",
+                  "href": "#"
+                },
+                {
+                  "name": "Eco-Friendly Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "LED Lighting",
+                  "href": "#"
+                },
+                {
+                  "name": "Tool Storage Solutions",
+                  "href": "#"
+                },
+                {
+                  "name": "Safety Equipment",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Shop By Brand",
+              "links": [
+                {
+                  "name": "DeWalt",
+                  "href": "#"
+                },
+                {
+                  "name": "Milwaukee",
+                  "href": "#"
+                },
+                {
+                  "name": "Makita",
+                  "href": "#"
+                },
+                {
+                  "name": "Bosch",
+                  "href": "#"
+                },
+                {
+                  "name": "Stanley",
+                  "href": "#"
+                },
+                {
+                  "name": "3M",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Shop By Project",
+              "links": [
+                {
+                  "name": "Home Renovation",
+                  "href": "#"
+                },
+                {
+                  "name": "Kitchen Remodel",
+                  "href": "#"
+                },
+                {
+                  "name": "Bathroom Update",
+                  "href": "#"
+                },
+                {
+                  "name": "Outdoor Projects",
+                  "href": "#"
+                },
+                {
+                  "name": "Workshop Setup",
+                  "href": "#"
+                },
+                {
+                  "name": "DIY Furniture",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "tools",
+        "name": "Tools",
+        "href": "#",
+        "megaMenu": {
+          "columns": [
+            {
+              "title": "Power Tools",
+              "links": [
+                {
+                  "name": "Drills & Drivers",
+                  "href": "#"
+                },
+                {
+                  "name": "Saws",
+                  "href": "#"
+                },
+                {
+                  "name": "Sanders",
+                  "href": "#"
+                },
+                {
+                  "name": "Grinders",
+                  "href": "#"
+                },
+                {
+                  "name": "Rotary Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Nail Guns",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Hand Tools",
+              "links": [
+                {
+                  "name": "Hammers",
+                  "href": "#"
+                },
+                {
+                  "name": "Screwdrivers",
+                  "href": "#"
+                },
+                {
+                  "name": "Wrenches",
+                  "href": "#"
+                },
+                {
+                  "name": "Pliers",
+                  "href": "#"
+                },
+                {
+                  "name": "Measuring Tools",
+                  "href": "#"
+                },
+                {
+                  "name": "Cutting Tools",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Tool Sets",
+              "links": [
+                {
+                  "name": "Complete Tool Kits",
+                  "href": "#"
+                },
+                {
+                  "name": "Socket Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Screwdriver Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Wrench Sets",
+                  "href": "#"
+                },
+                {
+                  "name": "Specialty Sets",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Tool Storage",
+              "links": [
+                {
+                  "name": "Tool Boxes",
+                  "href": "#"
+                },
+                {
+                  "name": "Tool Bags",
+                  "href": "#"
+                },
+                {
+                  "name": "Workbenches",
+                  "href": "#"
+                },
+                {
+                  "name": "Cabinets",
+                  "href": "#"
+                },
+                {
+                  "name": "Organizers",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "electrical",
+        "name": "Electrical",
+        "href": "#",
+        "megaMenu": {
+          "columns": [
+            {
+              "title": "Wiring",
+              "links": [
+                {
+                  "name": "Electrical Wire",
+                  "href": "#"
+                },
+                {
+                  "name": "Cable & Conduit",
+                  "href": "#"
+                },
+                {
+                  "name": "Wire Connectors",
+                  "href": "#"
+                },
+                {
+                  "name": "Junction Boxes",
+                  "href": "#"
+                },
+                {
+                  "name": "Wire Management",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Switches & Outlets",
+              "links": [
+                {
+                  "name": "Light Switches",
+                  "href": "#"
+                },
+                {
+                  "name": "Outlets",
+                  "href": "#"
+                },
+                {
+                  "name": "Dimmers",
+                  "href": "#"
+                },
+                {
+                  "name": "Smart Switches",
+                  "href": "#"
+                },
+                {
+                  "name": "Cover Plates",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "links": [
+                {
+                  "name": "LED Bulbs",
+                  "href": "#"
+                },
+                {
+                  "name": "Work Lights",
+                  "href": "#"
+                },
+                {
+                  "name": "Ceiling Fixtures",
+                  "href": "#"
+                },
+                {
+                  "name": "Outdoor Lighting",
+                  "href": "#"
+                },
+                {
+                  "name": "Emergency Lights",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Safety",
+              "links": [
+                {
+                  "name": "Circuit Breakers",
+                  "href": "#"
+                },
+                {
+                  "name": "Fuses",
+                  "href": "#"
+                },
+                {
+                  "name": "Surge Protectors",
+                  "href": "#"
+                },
+                {
+                  "name": "GFCI Outlets",
+                  "href": "#"
+                },
+                {
+                  "name": "Testers",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "plumbing",
+        "name": "Plumbing",
+        "href": "#",
+        "megaMenu": {
+          "columns": [
+            {
+              "title": "Pipes & Fittings",
+              "links": [
+                {
+                  "name": "PVC Pipes",
+                  "href": "#"
+                },
+                {
+                  "name": "Copper Pipes",
+                  "href": "#"
+                },
+                {
+                  "name": "Pipe Fittings",
+                  "href": "#"
+                },
+                {
+                  "name": "Valves",
+                  "href": "#"
+                },
+                {
+                  "name": "Connectors",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Fixtures",
+              "links": [
+                {
+                  "name": "Faucets",
+                  "href": "#"
+                },
+                {
+                  "name": "Sinks",
+                  "href": "#"
+                },
+                {
+                  "name": "Toilets",
+                  "href": "#"
+                },
+                {
+                  "name": "Showers",
+                  "href": "#"
+                },
+                {
+                  "name": "Bathtubs",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Water Heaters",
+              "links": [
+                {
+                  "name": "Tank Heaters",
+                  "href": "#"
+                },
+                {
+                  "name": "Tankless Heaters",
+                  "href": "#"
+                },
+                {
+                  "name": "Parts & Accessories",
+                  "href": "#"
+                },
+                {
+                  "name": "Installation Kits",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Repair",
+              "links": [
+                {
+                  "name": "Plungers",
+                  "href": "#"
+                },
+                {
+                  "name": "Drain Cleaners",
+                  "href": "#"
+                },
+                {
+                  "name": "Repair Kits",
+                  "href": "#"
+                },
+                {
+                  "name": "Tape & Sealant",
+                  "href": "#"
+                },
+                {
+                  "name": "Plumbing Tools",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "paint",
+        "name": "Paint",
+        "href": "#",
+        "megaMenu": {
+          "columns": [
+            {
+              "title": "Interior Paint",
+              "links": [
+                {
+                  "name": "Wall Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Ceiling Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Trim Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Primers",
+                  "href": "#"
+                },
+                {
+                  "name": "Specialty Paints",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Exterior Paint",
+              "links": [
+                {
+                  "name": "House Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Deck Stain",
+                  "href": "#"
+                },
+                {
+                  "name": "Concrete Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Metal Paint",
+                  "href": "#"
+                },
+                {
+                  "name": "Wood Stain",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Supplies",
+              "links": [
+                {
+                  "name": "Brushes",
+                  "href": "#"
+                },
+                {
+                  "name": "Rollers",
+                  "href": "#"
+                },
+                {
+                  "name": "Sprayers",
+                  "href": "#"
+                },
+                {
+                  "name": "Drop Cloths",
+                  "href": "#"
+                },
+                {
+                  "name": "Tape",
+                  "href": "#"
+                }
+              ]
+            },
+            {
+              "title": "Finishes",
+              "links": [
+                {
+                  "name": "Matte",
+                  "href": "#"
+                },
+                {
+                  "name": "Satin",
+                  "href": "#"
+                },
+                {
+                  "name": "Semi-Gloss",
+                  "href": "#"
+                },
+                {
+                  "name": "Gloss",
+                  "href": "#"
+                },
+                {
+                  "name": "Eggshell",
+                  "href": "#"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": "sale",
+        "name": "Sale",
+        "href": "#offers"
+      }
+    ],
+    "contact": {
+      "email": "info@Elite.com",
+      "phone": "(555) 123-4567"
+    },
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com"
+      }
+    ]
+  },
+  "hero": {
+    "badge": {
+      "text": "BUILD • RIGHT • HARDWARE •",
+      "innerText": "Since 1985"
+    },
+    "headline": "Build Your Projects With Quality Hardware",
+    "cta": {
+      "label": "Explore Products",
+      "href": "#categories"
+    },
+    "testimonial": {
+      "quote": "Their tools are built to last and exactly what I needed for my renovation. Loved the quality and value!",
+      "author": "Mike D."
+    },
+    "images": [
+      {
+        "id": "hero-1",
+        "src": "/assets/images/hero.jpg",
+        "alt": "Professional Power Drill",
+        "bgColor": "#f97316"
+      },
+      {
+        "id": "hero-2",
+        "src": "https://picsum.photos/seed/paint/280/320",
+        "alt": "Paint Supplies",
+        "bgColor": "#14b8a6"
+      },
+      {
+        "id": "hero-3",
+        "src": "https://picsum.photos/seed/tools/200/200",
+        "alt": "Hand Tools",
+        "bgColor": "#fbbf24"
+      },
+      {
+        "id": "hero-4",
+        "src": "https://picsum.photos/seed/electric/200/240",
+        "alt": "Electrical Supplies",
+        "bgColor": "#e0f2fe"
+      },
+      {
+        "id": "hero-5",
+        "src": "https://picsum.photos/seed/metal/280/280",
+        "alt": "Metal Bars and Pipes",
+        "bgColor": "#fef3c7"
+      },
+      {
+        "id": "hero-6",
+        "src": "https://picsum.photos/seed/plumbing/200/240",
+        "alt": "Plumbing Fixtures",
+        "bgColor": "#dcfce7"
+      }
+    ],
+    "featureIndicator": {
+      "number": "01",
+      "label": "Hardware",
+      "description": "Set Up Your Workshop With The Best Tools"
+    }
+  },
+  "categories": {
+    "sectionLabel": "Categories",
+    "sectionNumber": "01",
+    "headline": "Shop By Category",
+    "description": "Find everything you need across our comprehensive range of hardware categories.",
+    "items": [
+      {
+        "id": "cat-1",
+        "name": "Power Tools",
+        "description": "Drills, saws, sanders & more",
+        "image": "/assets/images/category/power-tools.jpg",
+        "icon": "drill",
+        "productCount": "500+"
+      },
+      {
+        "id": "cat-2",
+        "name": "Paint & Finishes",
+        "description": "Interior, exterior & specialty paints",
+        "image": "/assets/images/category/paint.png",
+        "icon": "paintbrush",
+        "productCount": "800+"
+      },
+      {
+        "id": "cat-3",
+        "name": "Nuts & Bolts",
+        "description": "Fasteners, screws & fixings",
+        "image": "/assets/images/category/nut.png",
+        "icon": "wrench",
+        "productCount": "2000+"
+      },
+      {
+        "id": "cat-4",
+        "name": "Metal Bars",
+        "description": "Steel, aluminum & iron bars",
+        "image": "/assets/images/category/bars.png",
+        "icon": "ruler",
+        "productCount": "300+"
+      },
+      {
+        "id": "cat-5",
+        "name": "Electrical",
+        "description": "Wiring, switches & fixtures",
+        "image": "/assets/images/category/electric.png",
+        "icon": "zap",
+        "productCount": "1200+"
+      },
+      {
+        "id": "cat-6",
+        "name": "Plumbing",
+        "description": "Pipes, fittings & fixtures",
+        "image": "/assets/images/category/plumb.png",
+        "icon": "droplet",
+        "productCount": "900+"
+      },
+      {
+        "id": "cat-7",
+        "name": "Hand Tools",
+        "description": "Hammers, screwdrivers & wrenches",
+        "image": "/assets/images/category/hand.png",
+        "icon": "hammer",
+        "productCount": "1500+"
+      },
+      {
+        "id": "cat-8",
+        "name": "Safety Gear",
+        "description": "Protective equipment & workwear",
+        "image": "/assets/images/category/safe.png",
+        "icon": "shield",
+        "productCount": "400+"
+      },
+      {
+        "id": "cat-9",
+        "name": "Building Materials",
+        "description": "Lumber, drywall & cement",
+        "image": "/assets/images/category/build.png",
+        "icon": "layers",
+        "productCount": "650+"
+      },
+      {
+        "id": "cat-10",
+        "name": "Garden",
+        "description": "Landscaping tools & supplies",
+        "image": "/assets/images/category/garden.png",
+        "icon": "flower",
+        "productCount": "350+"
+      }
+    ]
+  },
+  "featuredProducts": {
+    "sectionLabel": "Featured Products",
+    "sectionNumber": "02",
+    "headline": "Top Sellers This Week",
+    "description": "Our most popular products chosen by customers like you.",
+    "cta": {
+      "label": "View All Products",
+      "href": "#"
+    },
+    "items": [
+      {
+        "id": "prod-1",
+        "name": "DeWalt 20V Cordless Drill",
+        "description": "Professional-grade cordless drill with brushless motor",
+        "price": "Rs 149.99",
+        "originalPrice": "Rs 179.99",
+        "discount": "17% OFF",
+        "image": "/assets/images/products/drill.png",
+        "rating": "4.9",
+        "reviews": "234",
+        "badge": "Best Seller",
+        "category": "Power Tools"
+      },
+      {
+        "id": "prod-2",
+        "name": "Water Heater - 500W",
+        "description": "Long-lasting, energy-efficient water heater",
+        "price": "Rs 45.99",
+        "originalPrice": null,
+        "discount": null,
+        "image": "/assets/images/products/heater.png",
+        "rating": "4.7",
+        "reviews": "156",
+        "badge": null,
+        "category": "Paint"
+      },
+      {
+        "id": "prod-3",
+        "name": "Nail Gun",
+        "description": "High-performance pneumatic nail gun for framing",
+        "price": "Rs 34.99",
+        "originalPrice": "Rs 44.99",
+        "discount": "22% OFF",
+        "image": "/assets/images/products/nail.png",
+        "rating": "4.8",
+        "reviews": "89",
+        "badge": "Value Pack",
+        "category": "Fasteners"
+      },
+      {
+        "id": "prod-4",
+        "name": "40mm Steel Pipe - 3m",
+        "description": "Galvanized steel, corrosion resistant",
+        "price": "Rs 28.99",
+        "originalPrice": null,
+        "discount": null,
+        "image": "/assets/images/products/40.png",
+        "rating": "4.6",
+        "reviews": "67",
+        "badge": null,
+        "category": "Plumbing"
+      },
+      {
+        "id": "prod-5",
+        "name": "LED Work Light - 50W",
+        "description": "Portable, rechargeable, 5000 lumens",
+        "price": "Rs 59.99",
+        "originalPrice": "Rs 79.99",
+        "discount": "25% OFF",
+        "image": "/assets/images/products/led.png",
+        "rating": "4.9",
+        "reviews": "312",
+        "badge": "Hot Deal",
+        "category": "Electrical"
+      },
+      {
+        "id": "prod-6",
+        "name": "Professional Tool Set - 150pc",
+        "description": "Chrome vanadium steel, lifetime warranty",
+        "price": "Rs 199.99",
+        "originalPrice": "Rs 249.99",
+        "discount": "20% OFF",
+        "image": "/assets/images/products/prof-tool.png",
+        "rating": "4.8",
+        "reviews": "198",
+        "badge": "Top Rated",
+        "category": "Hand Tools"
+      }
+    ]
+  },
+  "offers": {
+    "sectionLabel": "Special Offers",
+    "sectionNumber": "03",
+    "headline": "Deals You Can't Miss",
+    "description": "Limited time offers on our best products. Grab them before they're gone!",
+    "mainOffer": {
+      "title": "Spring Sale",
+      "subtitle": "Up to 40% Off Power Tools",
+      "description": "Get ready for your spring projects with massive savings on top brands.",
+      "image": "/assets/images/sp.jpg",
+      "cta": {
+        "label": "Shop Sale",
+        "href": "#"
+      },
+      "endDate": "2026-02-28",
+      "badge": "Limited Time"
+    },
+    "secondaryOffers": [
+      {
+        "id": "offer-1",
+        "title": "Buy 2 Get 1 Free",
+        "subtitle": "On All Paint",
+        "image": "/assets/images/paint.jpg",
+        "href": "#"
+      },
+      {
+        "id": "offer-2",
+        "title": "Free Delivery",
+        "subtitle": "On Orders Over Rs 15,000",
+        "image": "/assets/images/delivery.jpg",
+        "href": "#"
+      }
+    ],
+    "banners": [
+      {
+        "id": "mega-sale",
+        "label": "MEGA SALE",
+        "headline": "Save up to",
+        "highlight": "70% now",
+        "image": "/assets/images/save.jpg",
+        "href": "#",
+        "theme": "dark"
+      },
+      {
+        "id": "discount-sale",
+        "label": "SALE",
+        "headline": "Discounts:",
+        "highlight": "50% Off",
+        "image": "/assets/images/discount.jpg",
+        "href": "#",
+        "theme": "red"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About Us",
+    "sectionNumber": "04",
+    "headline": "Why us",
+    "description": "We source and supply quality hardware products that not only meet professional standards but also deliver lasting value for every project you undertake.",
+    "image": "/assets/images/hero.jpg",
+    "highlights": [
+      "Family-owned business with 40 years of experience",
+      "Expert staff ready to help with any project",
+      "Competitive prices with price match guarantee",
+      "Same-day delivery available for local orders"
+    ],
+    "values": [
+      {
+        "id": "experience",
+        "title": "Experience"
+      },
+      {
+        "id": "consistency",
+        "title": "Consistency"
+      },
+      {
+        "id": "quality",
+        "title": "Quality"
+      },
+      {
+        "id": "dedication",
+        "title": "Dedication"
+      }
+    ],
+    "featuredTestimonial": {
+      "quote": "We asked Elite to redesign our workshop setup and the transformation was incredible. Best investment we ever made!",
+      "author": "James Rodriguez",
+      "role": "Workshop Owner",
+      "rating": 5
+    },
+    "stats": [
+      {
+        "value": "105+",
+        "label": "Completed projects for growing businesses"
+      },
+      {
+        "value": "92%",
+        "label": "Client retention rate over the past 3 years"
+      },
+      {
+        "value": "1M+",
+        "label": "Products delivered through our supply chain"
+      }
+    ]
+  },
+  "brandLogos": {
+    "sectionLabel": "Partners",
+    "headline": "Who we work with",
+    "subheadline": "Who We Serve",
+    "description": "From professional contractors to DIY enthusiasts, we are committed to building a community of trust. We assist businesses that have anywhere from 10 to 2,000 employees, across all markets. Our experience has spanned a variety of industries, including construction, manufacturing, and home improvement.",
+    "items": [
+      {
+        "id": "brand-1",
+        "name": "DeWalt",
+        "logo": "/assets/images/brands/dewalt.png"
+      },
+      {
+        "id": "brand-2",
+        "name": "Milwaukee",
+        "logo": "/assets/images/brands/miluwakee.png"
+      },
+      {
+        "id": "brand-3",
+        "name": "Makita",
+        "logo": "/assets/images/brands/makita.png"
+      },
+      {
+        "id": "brand-4",
+        "name": "Bosch",
+        "logo": "/assets/images/brands/bosch.png"
+      },
+      {
+        "id": "brand-5",
+        "name": "Stanley",
+        "logo": "/assets/images/brands/stanley.png"
+      },
+      {
+        "id": "brand-6",
+        "name": "3M",
+        "logo": "/assets/images/brands/3m.png"
+      },
+      {
+        "id": "brand-7",
+        "name": "Dulux",
+        "logo": "/assets/images/brands/dulux.png"
+      },
+      {
+        "id": "brand-8",
+        "name": "Black & Decker",
+        "logo": "/assets/images/brands/b&d.png"
+      },
+      {
+        "id": "brand-9",
+        "name": "Ridgid",
+        "logo": "/assets/images/brands/ridgid.png"
+      },
+      {
+        "id": "brand-10",
+        "name": "Craftsman",
+        "logo": "/assets/images/brands/craftsman.png"
+      },
+      {
+        "id": "brand-11",
+        "name": "Husky",
+        "logo": "/assets/images/brands/husky.jpg"
+      },
+      {
+        "id": "brand-12",
+        "name": "Irwin",
+        "logo": "/assets/images/brands/irwin.png"
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionLabel": "Testimonials",
+    "sectionNumber": "05",
+    "headline": "Words of praise from others about our presence.",
+    "badge": "Rated 4.8/5 by over 50,000 customers",
+    "overallRating": "4.8",
+    "ratingCategories": [
+      {
+        "label": "Product Quality",
+        "value": "4.9"
+      },
+      {
+        "label": "Customer Service",
+        "value": "4.8"
+      },
+      {
+        "label": "Pricing",
+        "value": "4.7"
+      },
+      {
+        "label": "Delivery",
+        "value": "4.8"
+      }
+    ],
+    "items": [
+      {
+        "id": "test-1",
+        "name": "Roshan Perera",
+        "role": "Professional Contractor",
+        "rating": "5.0",
+        "quote": "Exceeded our expectations with their extensive inventory that brought our renovation project to life - a truly remarkable hardware supplier.",
+        "avatar": "/assets/images/avatar/1.jpg",
+        "date": "Jan 2026"
+      },
+      {
+        "id": "test-2",
+        "name": "Nimali Silva",
+        "role": "DIY Enthusiast",
+        "rating": "5.0",
+        "quote": "Their ability to source exactly what we needed for every project is unparalleled - an invaluable partner for any renovation.",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "date": "Dec 2025"
+      },
+      {
+        "id": "test-3",
+        "name": "Arjun Fernando",
+        "role": "Electrician",
+        "rating": "5.0",
+        "quote": "Creative solutions from experts who listen, understand, and deliver quality products - a store that truly understands our needs.",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "date": "Nov 2025"
+      },
+      {
+        "id": "test-4",
+        "name": "Priya Jayawardena",
+        "role": "Interior Designer",
+        "rating": "5.0",
+        "quote": "The paint selection here is incredible. They helped me find the perfect finishes for my client's project. Professional service every time.",
+        "avatar": "/assets/images/avatar/4.jpg",
+        "date": "Oct 2025"
+      },
+      {
+        "id": "test-5",
+        "name": "Kasun Wijayakoon",
+        "role": "Plumber",
+        "rating": "5.0",
+        "quote": "A refreshing and reliable hardware supplier that consistently delivers exceptional results - highly recommended for any project.",
+        "avatar": "/assets/images/avatar/5.jpg",
+        "date": "Sep 2025"
+      },
+      {
+        "id": "test-6",
+        "name": "Amara de Silva",
+        "role": "Home Renovator",
+        "rating": "5.0",
+        "quote": "Their team's expertise and strategic approach resulted in remarkable outcomes for our home renovation - a reliable partner.",
+        "avatar": "/assets/images/avatar/1.jpg",
+        "date": "Aug 2025"
+      },
+      {
+        "id": "test-7",
+        "name": "Dinesh Bandara",
+        "role": "Construction Manager",
+        "rating": "5.0",
+        "quote": "From concept to completion, their product range knows no bounds - a game-changer for our construction business success.",
+        "avatar": "/assets/images/avatar/2.jpg",
+        "date": "Jul 2025"
+      },
+      {
+        "id": "test-8",
+        "name": "Chethana Wijesinghe",
+        "role": "Property Developer",
+        "rating": "5.0",
+        "quote": "A refreshing approach to hardware supply that combines quality products with exceptional customer service. Highly recommended!",
+        "avatar": "/assets/images/avatar/3.jpg",
+        "date": "Jun 2025"
+      }
+    ]
+  },
+  "faq": {
+    "sectionLabel": "FAQ",
+    "sectionNumber": "06",
+    "headline": "Frequently Asked Questions",
+    "description": "Got questions? We've got answers. Find everything you need to know about shopping with us.",
+    "cta": {
+      "label": "Still have questions? Contact us",
+      "href": "#footer"
+    },
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "Do you offer delivery services?",
+        "answer": "Yes! We offer same-day delivery for local orders placed before 2 PM, and standard delivery within 2-5 business days. Free delivery is available on orders over $50."
+      },
+      {
+        "id": "faq-2",
+        "question": "What is your return policy?",
+        "answer": "We offer a 30-day return policy on most items in original condition with receipt. Some items like custom-mixed paint and cut materials are non-returnable. Contact us for details."
+      },
+      {
+        "id": "faq-3",
+        "question": "Do you offer trade accounts?",
+        "answer": "Absolutely! Professional contractors and businesses can apply for trade accounts with exclusive discounts, credit terms, and priority service. Visit our store or apply online."
+      },
+      {
+        "id": "faq-4",
+        "question": "Can you help me with project planning?",
+        "answer": "Yes! Our experienced staff can help you plan your project, estimate materials needed, and recommend the right products. Just bring your plans or describe your project."
+      },
+      {
+        "id": "faq-5",
+        "question": "Do you price match competitors?",
+        "answer": "We offer a price match guarantee on identical in-stock items from local competitors. Simply show us the competitor's current price and we'll match it."
+      },
+      {
+        "id": "faq-6",
+        "question": "What are your store hours?",
+        "answer": "We're open Monday-Friday 7 AM to 7 PM, Saturday 8 AM to 6 PM, and Sunday 9 AM to 5 PM. Extended hours available during peak seasons."
+      },
+      {
+        "id": "faq-7",
+        "question": "Do you offer tool rental?",
+        "answer": "Yes, we have a tool rental program for larger equipment like concrete mixers, tile saws, and scaffolding. Daily, weekly, and monthly rates available."
+      }
+    ]
+  },
+  "footer": {
+    "brand": {
+      "name": "Elite",
+      "tagline": "Hardware"
+    },
+    "headline": "Build Better\nWith Elite",
+    "taglineSmall": "Get your free quote at",
+    "description": "Your trusted source for quality hardware, tools, and expert advice since 1985.",
+    "cta": {
+      "label": "Get Started",
+      "href": "#hero"
+    },
+    "contact": {
+      "email": "info@Elite.com",
+      "phone": "+1 (555) 123-4567",
+      "address": "123 Hardware Lane, Tool City, TC 12345"
+    },
+    "office": {
+      "label": "Main Office",
+      "lines": [
+        "123 Hardware Lane",
+        "Tool City, TC",
+        "12345"
+      ]
+    },
+    "hours": {
+      "weekdays": "Mon-Fri: 7 AM - 7 PM",
+      "saturday": "Sat: 8 AM - 6 PM",
+      "sunday": "Sun: 9 AM - 5 PM"
+    },
+    "location": "Tool City, TC",
+    "quickLinks": [
+      {
+        "name": "Products",
+        "href": "#categories"
+      },
+      {
+        "name": "Pricing",
+        "href": "#offers"
+      },
+      {
+        "name": "Contact Us",
+        "href": "#faq"
+      }
+    ],
+    "linkGroups": [
+      {
+        "title": "Shop",
+        "links": [
+          {
+            "name": "Power Tools",
+            "href": "#categories"
+          },
+          {
+            "name": "Paint & Finishes",
+            "href": "#categories"
+          },
+          {
+            "name": "Electrical",
+            "href": "#categories"
+          },
+          {
+            "name": "Plumbing",
+            "href": "#categories"
+          },
+          {
+            "name": "Fasteners",
+            "href": "#categories"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "name": "About Us",
+            "href": "#about"
+          },
+          {
+            "name": "Careers",
+            "href": "#"
+          },
+          {
+            "name": "Trade Accounts",
+            "href": "#"
+          },
+          {
+            "name": "Contact",
+            "href": "#footer"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "name": "FAQ",
+            "href": "#faq"
+          },
+          {
+            "name": "Delivery Info",
+            "href": "#"
+          },
+          {
+            "name": "Returns",
+            "href": "#"
+          },
+          {
+            "name": "Tool Rental",
+            "href": "#"
+          }
+        ]
+      }
+    ],
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "https://facebook.com"
+      },
+      {
+        "name": "Instagram",
+        "href": "https://instagram.com"
+      },
+      {
+        "name": "YouTube",
+        "href": "https://youtube.com"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com"
+      }
+    ],
+    "bottomLinks": [
+      {
+        "name": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "name": "Terms of Service",
+        "href": "/terms"
+      }
+    ],
+    "copyright": "© 2026 Elite Hardware. All rights reserved."
+  }
+}

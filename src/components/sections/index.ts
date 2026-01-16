@@ -1,0 +1,9 @@
+export { Hero } from "./Hero";
+export { Categories } from "./Categories";
+export { FeaturedProducts } from "./FeaturedProducts";
+export { Offers } from "./Offers";
+export { About } from "./About";
+export { Testimonials } from "./Testimonials";
+export { FAQ } from "./faq";
+export { Brands } from "./Brands";
+export { Footer } from "./Footer";
